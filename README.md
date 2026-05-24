@@ -144,6 +144,41 @@ hobbies:
 </p>
 
 ---
+## 🏆 HackerRank — Badges & Certifications
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.hackerrank.com/profile/kalanamethsara53">
+        <img src="https://img.shields.io/badge/Java-★★★★-0074BD?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      </a><br/>
+      <sub>Problem Solving</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/profile/kalanamethsara53">
+        <img src="https://img.shields.io/badge/Python-★-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      </a><br/>
+      <sub>Problem Solving</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/profile/kalanamethsara53">
+        <img src="https://img.shields.io/badge/SQL-★-F29111?style=for-the-badge&logo=mysql&logoColor=white"/>
+      </a><br/>
+      <sub>Databases</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/profile/kalanamethsara53">
+        <img src="https://img.shields.io/badge/React-★★★-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+      </a><br/>
+      <sub>Web Development</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
