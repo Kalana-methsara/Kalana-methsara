@@ -145,12 +145,7 @@ hobbies:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kalana-methsara&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalana-methsara&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalana-methsara&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="50%"/>
 </p>
 
 ---
@@ -167,14 +162,6 @@ hobbies:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalana-methsara&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kalana-methsara/Kalana-methsara/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
