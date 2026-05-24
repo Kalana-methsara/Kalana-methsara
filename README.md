@@ -145,12 +145,12 @@ hobbies:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalanamethsara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalanamethsara&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kalana-methsara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalana-methsara&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalanamethsara&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalana-methsara&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="50%"/>
 </p>
 
 ---
@@ -158,7 +158,7 @@ hobbies:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kalanamethsara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Kalana-methsara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -166,7 +166,7 @@ hobbies:
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalanamethsara&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalana-methsara&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
 </p>
 
 ---
@@ -174,7 +174,7 @@ hobbies:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kalanamethsara/kalanamethsara/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Kalana-methsara/Kalana-methsara/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
@@ -190,7 +190,7 @@ hobbies:
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalanamethsara&label=Profile%20Views&color=6a11cb&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Kalana-methsara&label=Profile%20Views&color=6a11cb&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center">
