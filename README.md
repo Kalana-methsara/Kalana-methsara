@@ -145,12 +145,12 @@ hobbies:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalana-methsara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.deno.dev/api?username=kalana-methsara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalana-methsara&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalana-methsara&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats.deno.dev/api/top-langs/?username=kalana-methsara&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="50%"/>
 </p>
 
 ---
