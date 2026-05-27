@@ -94,38 +94,7 @@ hobbies:
 ```
 
 ---
-
-<!-- My workspace -->
-<div align='center'>
-  <h3>💻 My workspace</h3>
-  <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-mx%20150-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-  <h4>Do you like my open source projects? 
-    <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-  </h4>
-  <h4>📫 How to reach me: 
-    <a href='mailto:shamodhasrathnamalala@gmail.com'>shamodhasrathnamalala@gmail.com</a>
-  </h4>
-  <h4>💻 Mobile</h4>
-  <img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
-  <a href="">
-    <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white" />
-  </a>
-  <br/><br/>
-</div>
-<!-- status 1 -->
-<div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=shamodhaSahan&show_icons=true&include_all_commits=true&theme=dark&hide_border=true"  height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamodhaSahan&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150">
-</div>
-<!-- status 2 -->
-<div align='center'>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamodhaSahan&theme=blue-green&hide_border=true" height="180">
-  <img src="https://github-contributor-stats.vercel.app/api?username=shamodhaSahan&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" height="180">
-</div>
+ 
 <!-- i code with -->
 <div align='left'>
   <h2>👩‍💻 I Code With:</h2>
