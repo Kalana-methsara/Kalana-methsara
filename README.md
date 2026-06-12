@@ -3,8 +3,13 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&pause=1000&color=6A11CB&center=true&vCenter=true&random=false&width=700&height=60&lines=Hi+There!+I'm+Kalana+Methsara+👋;Full+Stack+Developer+💻;UI%2FUX+Designer+🎨;DevOps+Enthusiast+⚙️;Open+Source+Contributor+🌟" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&pause=1000&color=6A11CB&center=true&vCenter=true&random=false&width=700&height=60&lines=Hi+There!+I'm+Kalana+Methsara+👋;Full+Stack+Developer+💻;UI%2FUX+Designer+🎨;DevOps+Engineer+⚙️;Open+Source+Contributor+🌟" alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  <b>Full-Stack Developer &nbsp;|&nbsp; UI/UX Designer &nbsp;|&nbsp; DevOps Engineer &nbsp;|&nbsp; AI/ML Enthusiast</b><br/>
+  <i>Building scalable web & mobile applications · Open Source Contributor · Based in Sri Lanka 🇱🇰</i>
+</p>
 
 ---
 
