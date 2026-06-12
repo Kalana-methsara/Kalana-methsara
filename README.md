@@ -57,7 +57,8 @@ email        : kalanamethsara53@gmail.com
 current_role : Full Stack Developer
 
 education:
-  - Institute of Software Engineering (IJSE)
+  - Graduate Diploma in Software Engineering — IJSE (Sep 2024 – Present)
+  - Certified AI & ML Engineer Program — IJSE (Nov 2025 – Completed)
   - Self-Taught Developer & Designer
 
 fields_of_interest:
